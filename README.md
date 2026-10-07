@@ -4,8 +4,6 @@
 
 I am a software engineer and AI development specialist based in Innsbruck, Austria. I bridge the gap between hardware and software, specializing in Python automation, C/C++ embedded systems (Arduino/ESP32), and designing intuitive mobile interfaces in Figma. I am currently pursuing Master's studies in Smart Products & AI Development.
 
-As the Founder of DigitraX Global, I also have deep expertise in IT field engineering and data center infrastructure.
-
 ---
 
 ### 🛠️ Tech Stack & Tools
